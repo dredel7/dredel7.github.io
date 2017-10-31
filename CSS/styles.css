@@ -2,3 +2,8 @@ html, body{
       background-color:blue;
       background-image: url("/css/bcgrnd.jpg");
 }
+
+h1{
+      text-align: center;
+      color: blue;
+}
