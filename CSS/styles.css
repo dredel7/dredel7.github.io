@@ -1,4 +1,4 @@
 body{
       background-color:blue;
-      background-image: url(css/bcgrnd.jpg);
+      background-image: url("/css/bcgrnd.jpg");
 }
